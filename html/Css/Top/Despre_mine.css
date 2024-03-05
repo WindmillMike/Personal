@@ -1,0 +1,35 @@
+.poza {
+	margin-left: auto;
+	width: 40%;
+	height: 40%;
+	display: block;
+	padding-right: 14rem;
+	padding-top: 18%;
+}
+
+.poza_container {
+	overflow-y: scroll;
+	float: right;
+	width: 50%;
+}
+
+.text {
+	padding-top: 8%;
+	width: 50%;
+	padding-left: 17%;
+}
+
+.text_1 {
+	color: black;
+	text-align: center;
+	font-size: 1.8vw;
+
+}
+
+* {
+	caret-color: white;
+}
+
+*::-webkit-scrollbar {
+	overflow: hidden;
+}

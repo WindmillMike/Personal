@@ -1,0 +1,13 @@
+.butoane {
+	display: inline-block;
+	text-align: right;
+	width: 97%;
+	padding-top: 3rem;
+}
+
+.buton {
+	text-decoration: none;
+	color: black;
+	padding: 1.4rem;
+	font-size: 150%;
+}
